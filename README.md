@@ -24,8 +24,6 @@ desliga.yaml - script para desligar servidores do inventario.
 
 uptime.yaml - script para mostrar o uptime do servidores.
 
-mtmon_install.yaml - script ansible para instalação e pre-configuracao do MTMON, software de gerencia de redes, servidores, servicos  da Multitask Consultoria.
-
 desliga.yaml - script para desligamento de uma ambiente inteiro.
 
 suporte.yaml - script para suporte, adição/remoção de usuarios, chaves publicas para SSH, troca de senhas dos usuarios e ajustes no sudoers.
